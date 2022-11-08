@@ -1,3 +1,5 @@
+# Newton Raphson method 
+
 import numpy as np
 import scipy.stats as st
 # Initial parameters and market quotes
